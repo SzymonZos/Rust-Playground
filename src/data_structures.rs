@@ -10,7 +10,7 @@ struct Line {
     end: Point
 }
 
-enum Color {
+pub enum Color {
     Red,
     Green,
     Blue,

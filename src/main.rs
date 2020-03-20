@@ -5,6 +5,7 @@ mod stack_heap;
 mod control_flow;
 mod basics;
 mod data_structures;
+mod advanced_ds;
 
 fn main() {
     basics::types();
@@ -21,4 +22,9 @@ fn main() {
     data_structures::option();
     data_structures::array();
     data_structures::vector();
+    advanced_ds::slices();
+    advanced_ds::strings();
+    advanced_ds::tuples();
+    advanced_ds::pattern_matching();
+    advanced_ds::generics();
 }
