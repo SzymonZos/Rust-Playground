@@ -16,4 +16,9 @@ fn main() {
     control_flow::while_loop();
     control_flow::for_loop();
     control_flow::match_statement();
+    data_structures::structures();
+    data_structures::enums();
+    data_structures::option();
+    data_structures::array();
+    data_structures::vector();
 }
