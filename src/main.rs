@@ -7,6 +7,7 @@ mod basics;
 mod data_structures;
 mod advanced_ds;
 mod functions;
+mod lifetime;
 
 fn main() {
     basics::types();
@@ -33,5 +34,6 @@ fn main() {
     functions::closures(); // lambdas
     functions::high_order();
     functions::traits();
-
+    lifetime::ownership();
+    lifetime::borrowing();
 }
