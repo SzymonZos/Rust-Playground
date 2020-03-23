@@ -6,6 +6,7 @@ mod control_flow;
 mod basics;
 mod data_structures;
 mod advanced_ds;
+mod functions;
 
 fn main() {
     basics::types();
@@ -27,4 +28,10 @@ fn main() {
     advanced_ds::tuples();
     advanced_ds::pattern_matching();
     advanced_ds::generics();
+    functions::basic();
+    functions::methods();
+    functions::closures(); // lambdas
+    functions::high_order();
+    functions::traits();
+
 }

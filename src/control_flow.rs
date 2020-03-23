@@ -2,11 +2,11 @@ pub fn if_statement() {
     let temp = 35;
 
     if temp > 30 { // note no parenthesises
-        println!("hot!")
+        println!("hot!");
     } else if temp < 10 {
-        println!("cold!")
+        println!("cold!");
     } else {
-        println!("normal")
+        println!("normal");
     }
     // if is an expression
     let day = if temp > 20 {"sunny"} else {"cloudy"};
