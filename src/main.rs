@@ -8,6 +8,8 @@ mod data_structures;
 mod advanced_ds;
 mod functions;
 mod lifetime;
+mod rand;
+mod phrases;
 
 fn main() {
     basics::types();
@@ -36,4 +38,6 @@ fn main() {
     functions::traits();
     lifetime::ownership();
     lifetime::borrowing();
+    rand::generate_rng();
+    phrases::phrase();
 }

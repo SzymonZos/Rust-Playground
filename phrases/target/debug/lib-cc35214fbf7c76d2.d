@@ -1,0 +1,1 @@
+/home/szosgor/CLionProjects/Rust/playground/phrases/target/debug/lib-cc35214fbf7c76d2: /home/szosgor/CLionProjects/Rust/playground/phrases/src/greetings/english.rs /home/szosgor/CLionProjects/Rust/playground/phrases/src/greetings/french.rs /home/szosgor/CLionProjects/Rust/playground/phrases/src/lib.rs /home/szosgor/CLionProjects/Rust/playground/phrases/tests/lib.rs
