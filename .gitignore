@@ -3,3 +3,4 @@
 !**/doc/**
 !.gitignore
 !index.html
+**/target/**
